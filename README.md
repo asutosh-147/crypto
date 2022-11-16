@@ -1,2 +1,2 @@
 # crypto
-this ia crypto site
+this is a crypto site
